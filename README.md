@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kremerlal
-- 👀 I’m halfway through my Business Analytics Master's at UVA
+- 🎓 I’m halfway through my Business Analytics Master's at UVA
 - 🌱 I’m currently learning Python, R, and SQL
 
 <!---
